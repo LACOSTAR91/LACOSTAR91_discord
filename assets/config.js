@@ -1,8 +1,8 @@
 const config = {
-    USERNAME: "LACOSTAR91#9999",
+    USERNAME: "lacostar91",
     PICTURE: "assets/img/lacostar_PP.gif",
 
-    DESCRIPTION: "Hello everyone, I'm LACOSTAR91! 16 years old, french developper orient web, I lead, develop, moderate several communities and large servers. I speak French and English.",
+    DESCRIPTION: "Hello everyone, I'm LACOSTAR91! 18 years old, french developper orient web, I lead, develop, moderate several communities and large servers. I speak French and English.",
 
     BADGES: [
         { id: "HypeSquad Bravery", image: "assets/img/badge_bravery.png" },
@@ -10,9 +10,8 @@ const config = {
     ],
 
     PROJECTS: [
-        { id: "project-1", image: "assets/img/logo_nightgroup.png", link: "https://discord.gg/jH6wB3B6s8", name: "Night Group - Owner" },
-        { id: "project-2", image: "assets/img/pi-heberg_logo.png", link: "https://discord.gg/ZSZwcyB6TA", name: "Pi-heberg - Director" },
-        { id: "project-5", image: "assets/img/logo_devcommunity.png", link: "https://discord.gg/RmFKX6khYK", name: "Development Community - Confirmed Support" },
+        { id: "project-1", image: "assets/img/logo_nightgroup.png", link: "https://discord.gg/MePxBrUdHR", name: "Night Group - Owner & Developer" },
+        { id: "project-2", image: "assets/img/logo_devcommunity.png", link: "https://discord.gg/development-community-670988997560107016", name: "Development Community - Gestion" },
     ],
 
     SOCIALS: [
